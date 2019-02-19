@@ -8,7 +8,7 @@ import matplotlib.dates
 
 """ Module for visualization: For now only contains two scripts
 
-    One of Calendar Maps and the other for errror plotting
+    One of Calendar Maps and the other for errror plotting.
 """
 
 
