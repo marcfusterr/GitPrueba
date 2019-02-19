@@ -1,3 +1,13 @@
+"""
+Esta prueba no ha valido la pena
+
+no usar esto
+
+"""
+
+
+
+
 import matplotlib.pylab as plt
 import pandas as pd
 import numpy as np
