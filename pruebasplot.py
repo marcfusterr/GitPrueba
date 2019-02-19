@@ -1,8 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 """
 Esta prueba no ha valido la pena
 
 no usar esto
+=======
+""" 
+prueba que no tiene validez
+>>>>>>> feature_visual
 =======
 """ 
 prueba que no tiene validez
@@ -12,8 +17,11 @@ prueba que no tiene validez
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> feature_visual
 =======
 >>>>>>> feature_visual
 import matplotlib.pylab as plt
