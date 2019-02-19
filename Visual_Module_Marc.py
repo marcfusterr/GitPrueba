@@ -7,6 +7,10 @@ from datetime import datetime
 import calmap
 import matplotlib.dates
 
+"""
+Visual module: it contains plots
+
+"""
 
 
 def scatter_error_plot(y_true, y_predict, datelist,
