@@ -6,7 +6,7 @@ from datetime import datetime
 import calmap
 import matplotlib.dates
 
-""" Module for visualization: For now only contains two scripts
+""" Module for visualization: For now only contains two scripts.
 
     One of Calendar Maps and the other for errror plotting.
 
@@ -17,7 +17,9 @@ import matplotlib.dates
 def scatter_error_plot(y_true, y_predict, datelist,
                        xlab='Dates', ylab='Units sold', title='Error analysis',
                        ticks_separation='weeks'):
-    """Create scatter error plot to compare the Prediction.
+    """ 
+    Description
+    Create scatter error plot to compare the Prediction.
 
     Args:
         y_true {[List of values]} -- Array of Real values
