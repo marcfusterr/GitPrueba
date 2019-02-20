@@ -18,6 +18,7 @@ def scatter_error_plot(y_true, y_predict, datelist,
                        xlab='Dates', ylab='Units sold', title='Error analysis',
                        ticks_separation='weeks'):
     """Create scatter error plot to compare the Prediction.
+    There is an example of how to use it in the main function below
 
     Args:
         y_true {[List of values]} -- Array of Real values
