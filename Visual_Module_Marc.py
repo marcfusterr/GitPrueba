@@ -10,7 +10,7 @@ import matplotlib.dates
 
     One of Calendar Maps and the other for errror plotting.
 
-    Develop version
+    Further functions will be added. For any doubts contact with Marc.
 """
 
 
